@@ -1,0 +1,7 @@
+{
+  "name": "SouqDZ",
+  "description": "Algerian marketplace for buying and selling with integrated BaridiMob, CIB/Edahabia payments, and local delivery tracking (Yalidine, ZR Express, EMS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
